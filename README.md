@@ -3,5 +3,5 @@ My name is Stephen Reed and I have been working in the tech industry for the pas
 
 [![Introduction to Myself](./Intro.png)](https://youtu.be/pUrQUTxnFWo)
 
-
+## Check out my Projects!
 <a href="https://reed0023.github.io/projects">My Projects</a>
