@@ -1,4 +1,4 @@
-#My Site
+## My Projects
 
 <a href="http://reed0023.github.io/eyes">Moving Eyes</a>
 
