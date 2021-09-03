@@ -7,3 +7,7 @@ This project uses onmousemove to track the users mouse, and transforms the eyes.
 <a href="http://reed0023.github.io/pacman">Pacman Factory</a>
 
 We have created a Pacman Factory, wherein the user adds Pacmen to the DOM, and increases the speed of those Pacmen with the click of a button.
+
+<a href="http://reed0023.github.io/pacman">Pacman Factory</a>
+
+We have created a Pacman Factory, wherein the user adds Pacmen to the DOM, and increases the speed of those Pacmen with the click of a button.
