@@ -10,4 +10,4 @@ We have created a Pacman Factory, wherein the user adds Pacmen to the DOM, and i
 
 <a href="http://reed0023.github.io/bus-tracker">Bus Tracker</a>
 
-This project uploads data from a remote site and pushes it to the DOM for bus tracking. 
+This project fetches data from a remote site and pushes it to the DOM for bus tracking. 
